@@ -1,0 +1,11 @@
+{
+  "resize": [500, 350],
+  "random_brightness": [-30, 100],
+  "random_hue_saturation_value": [1],
+  "random_gauss_noise": [0, 100, 0, 1],
+  "random_erase": [0.4, 0.5],
+  "random_horizontal_flip": [0.5],
+  "random_crop": [1, 1],
+  "random_vertical_flip": [0.5],
+  "random_rotation": [0.5,-45,45]
+}
